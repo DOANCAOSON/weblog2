@@ -83,7 +83,7 @@ const Member = [
 	{
 		id: 1,
 		name: 'Nguyễn Thanh Bình',
-		title: 'Thành viên.',
+		title: 'Nhóm phó.',
 		image: Binh
 	},
 	{
@@ -95,7 +95,7 @@ const Member = [
 	{
 		id: 3,
 		name: 'Vi Thanh Tú',
-		title: 'Nhóm phó.',
+		title: 'Thành viên.',
 		image: Tu
 	},
 	{
